@@ -1,0 +1,8 @@
+{
+  "id": "com.tvlatam.live",
+  "name": "TV Latam",
+  "version": "1.0.0",
+  "description": "Canales en vivo Latam (Perú, Chile, Argentina, España e internacionales), agrupados por género. Sin contenido adulto.",
+  "author": "loladdons",
+  "logo": "logo.png"
+}

@@ -1,0 +1,1072 @@
+{
+  "categories": [
+    {
+      "name": "Deportes",
+      "channels": [
+        {
+          "id": "a0bl",
+          "name": "L1 MAX",
+          "url": "http://190.108.83.69:8000/play/a0bl/index.m3u8",
+          "group": "Deportes",
+          "language": "es"
+        },
+        {
+          "id": "a0an",
+          "name": "ESPN 2 HD",
+          "url": "http://190.108.83.69:8000/play/a0an/index.m3u8",
+          "group": "Deportes",
+          "language": "es"
+        },
+        {
+          "id": "a039",
+          "name": "ESPN 3 HD",
+          "url": "http://190.108.83.69:8000/play/a039/index.m3u8",
+          "group": "Deportes",
+          "language": "es"
+        },
+        {
+          "id": "a04h",
+          "name": "ESPN 4 HD",
+          "url": "http://190.108.83.69:8000/play/a04h/index.m3u8",
+          "group": "Deportes",
+          "language": "es"
+        },
+        {
+          "id": "a032",
+          "name": "ESPN 5 HD",
+          "url": "http://190.108.83.69:8000/play/a032/index.m3u8",
+          "group": "Deportes",
+          "language": "es"
+        },
+        {
+          "id": "a02w",
+          "name": "ESPN 6 HD",
+          "url": "http://190.108.83.69:8000/play/a02w/index.m3u8",
+          "group": "Deportes",
+          "language": "es"
+        },
+        {
+          "id": "a049",
+          "name": "ESPN 7 HD",
+          "url": "http://190.108.83.69:8000/play/a049/index.m3u8",
+          "group": "Deportes",
+          "language": "es"
+        },
+        {
+          "id": "a03s",
+          "name": "ESPN HD",
+          "url": "http://190.108.83.69:8000/play/a03s/index.m3u8",
+          "group": "Deportes",
+          "language": "es"
+        },
+        {
+          "id": "a03w",
+          "name": "ESPN Premium HD",
+          "url": "http://190.108.83.69:8000/play/a03w/index.m3u8",
+          "group": "Deportes",
+          "language": "es"
+        },
+        {
+          "id": "a0cb",
+          "name": "DS",
+          "url": "http://190.108.83.69:8000/play/a0cb/index.m3u8",
+          "group": "Deportes",
+          "language": "es"
+        },
+        {
+          "id": "a08s",
+          "name": "L1",
+          "url": "http://190.108.83.69:8000/play/a08s/index.m3u8",
+          "group": "Deportes",
+          "language": "es"
+        },
+        {
+          "id": "a083",
+          "name": "L1 MAX (2)",
+          "url": "http://190.108.83.69:8000/play/a083/index.m3u8",
+          "group": "Deportes",
+          "language": "es"
+        },
+        {
+          "id": "a07o",
+          "name": "Movistar Deportes",
+          "url": "http://190.108.83.69:8000/play/a07o/index.m3u8",
+          "group": "Deportes",
+          "language": "es"
+        },
+        {
+          "id": "a03i",
+          "name": "TNT Sports Premium HD",
+          "url": "http://190.108.83.69:8000/play/a03i/index.m3u8",
+          "group": "Deportes",
+          "language": "es"
+        },
+        {
+          "id": "a00u",
+          "name": "Via X Esports",
+          "url": "http://190.108.83.69:8000/play/a00u/index.m3u8",
+          "group": "Deportes",
+          "language": "es"
+        }
+      ]
+    },
+    {
+      "name": "Canales abiertos",
+      "channels": [
+        {
+          "id": "a02o",
+          "name": "13 C",
+          "url": "http://190.108.83.69:8000/play/a02o/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a019",
+          "name": "ATV",
+          "url": "http://190.108.83.69:8000/play/a019/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a00f",
+          "name": "América TV HD",
+          "url": "http://190.108.83.69:8000/play/a00f/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a01e",
+          "name": "Antena 3",
+          "url": "http://190.108.83.69:8000/play/a01e/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a03g",
+          "name": "CHV HD",
+          "url": "http://190.108.83.69:8000/play/a03g/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a02v",
+          "name": "Canal 13 HD",
+          "url": "http://190.108.83.69:8000/play/a02v/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a08c",
+          "name": "ETC",
+          "url": "http://190.108.83.69:8000/play/a08c/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a01d",
+          "name": "El Trece",
+          "url": "http://190.108.83.69:8000/play/a01d/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a01b",
+          "name": "Global",
+          "url": "http://190.108.83.69:8000/play/a01b/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a097",
+          "name": "América TV",
+          "url": "http://190.108.83.69:8000/play/a097/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a0cq",
+          "name": "ATV Sur HD",
+          "url": "http://190.108.83.69:8000/play/a0cq/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a0cp",
+          "name": "ATV+ HD",
+          "url": "http://190.108.83.69:8000/play/a0cp/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a0cr",
+          "name": "La Tele HD",
+          "url": "http://190.108.83.69:8000/play/a0cr/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a09a",
+          "name": "Latina HD",
+          "url": "http://190.108.83.69:8000/play/a09a/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a092",
+          "name": "TV Perú",
+          "url": "http://190.108.83.69:8000/play/a092/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a00g",
+          "name": "Latina HD (2)",
+          "url": "http://190.108.83.69:8000/play/a00g/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a03m",
+          "name": "Mega HD",
+          "url": "http://190.108.83.69:8000/play/a03m/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a018",
+          "name": "Panamericana",
+          "url": "http://190.108.83.69:8000/play/a018/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a08m",
+          "name": "TVE",
+          "url": "http://190.108.83.69:8000/play/a08m/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a03f",
+          "name": "TVN HD",
+          "url": "http://190.108.83.69:8000/play/a03f/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        },
+        {
+          "id": "a08l",
+          "name": "Telefe",
+          "url": "http://190.108.83.69:8000/play/a08l/index.m3u8",
+          "group": "Canales abiertos",
+          "language": "es"
+        }
+      ]
+    },
+    {
+      "name": "Regionales y locales",
+      "channels": [
+        {
+          "id": "a00k",
+          "name": "Nuestra Tele",
+          "url": "http://190.108.83.69:8000/play/a00k/index.m3u8",
+          "group": "Regionales y locales",
+          "language": "es"
+        },
+        {
+          "id": "a017",
+          "name": "Oromar TV",
+          "url": "http://190.108.83.69:8000/play/a017/index.m3u8",
+          "group": "Regionales y locales",
+          "language": "es"
+        },
+        {
+          "id": "a070",
+          "name": "Popu TV",
+          "url": "http://190.108.83.69:8000/play/a070/index.m3u8",
+          "group": "Regionales y locales",
+          "language": "es"
+        },
+        {
+          "id": "a09c",
+          "name": "Alpha",
+          "url": "http://190.108.83.69:8000/play/a09c/index.m3u8",
+          "group": "Regionales y locales",
+          "language": "es"
+        },
+        {
+          "id": "a067",
+          "name": "Charapa TV",
+          "url": "http://190.108.83.69:8000/play/a067/index.m3u8",
+          "group": "Regionales y locales",
+          "language": "es"
+        },
+        {
+          "id": "a07k",
+          "name": "Estación TV",
+          "url": "http://190.108.83.69:8000/play/a07k/index.m3u8",
+          "group": "Regionales y locales",
+          "language": "es"
+        },
+        {
+          "id": "a06r",
+          "name": "Nex TV",
+          "url": "http://190.108.83.69:8000/play/a06r/index.m3u8",
+          "group": "Regionales y locales",
+          "language": "es"
+        },
+        {
+          "id": "a05y",
+          "name": "Oriental",
+          "url": "http://190.108.83.69:8000/play/a05y/index.m3u8",
+          "group": "Regionales y locales",
+          "language": "es"
+        },
+        {
+          "id": "a082",
+          "name": "Premium Go",
+          "url": "http://190.108.83.69:8000/play/a082/index.m3u8",
+          "group": "Regionales y locales",
+          "language": "es"
+        },
+        {
+          "id": "a05z",
+          "name": "Pucallpa TV",
+          "url": "http://190.108.83.69:8000/play/a05z/index.m3u8",
+          "group": "Regionales y locales",
+          "language": "es"
+        },
+        {
+          "id": "a060",
+          "name": "Ucayalina TV",
+          "url": "http://190.108.83.69:8000/play/a060/index.m3u8",
+          "group": "Regionales y locales",
+          "language": "es"
+        },
+        {
+          "id": "a07y",
+          "name": "Nova TV",
+          "url": "http://190.108.83.69:8000/play/a07y/index.m3u8",
+          "group": "Regionales y locales",
+          "language": "es"
+        },
+        {
+          "id": "a05r",
+          "name": "PBO HD",
+          "url": "http://190.108.83.69:8000/play/a05r/index.m3u8",
+          "group": "Regionales y locales",
+          "language": "es"
+        }
+      ]
+    },
+    {
+      "name": "Noticias",
+      "channels": [
+        {
+          "id": "a01c",
+          "name": "BBC World",
+          "url": "http://190.108.83.69:8000/play/a01c/index.m3u8",
+          "group": "Noticias",
+          "language": "es"
+        },
+        {
+          "id": "a07h",
+          "name": "CCTV-CGTN",
+          "url": "http://190.108.83.69:8000/play/a07h/index.m3u8",
+          "group": "Noticias",
+          "language": "es"
+        },
+        {
+          "id": "a0cs",
+          "name": "CNN Chile",
+          "url": "http://190.108.83.69:8000/play/a0cs/index.m3u8",
+          "group": "Noticias",
+          "language": "es"
+        },
+        {
+          "id": "a023",
+          "name": "CNN Español",
+          "url": "http://190.108.83.69:8000/play/a023/index.m3u8",
+          "group": "Noticias",
+          "language": "es"
+        },
+        {
+          "id": "a07r",
+          "name": "Canal N",
+          "url": "http://190.108.83.69:8000/play/a07r/index.m3u8",
+          "group": "Noticias",
+          "language": "es"
+        },
+        {
+          "id": "a01l",
+          "name": "DW Español",
+          "url": "http://190.108.83.69:8000/play/a01l/index.m3u8",
+          "group": "Noticias",
+          "language": "es"
+        },
+        {
+          "id": "a07s",
+          "name": "Exitosa TV",
+          "url": "http://190.108.83.69:8000/play/a07s/index.m3u8",
+          "group": "Noticias",
+          "language": "es"
+        },
+        {
+          "id": "a01j",
+          "name": "France 24",
+          "url": "http://190.108.83.69:8000/play/a01j/index.m3u8",
+          "group": "Noticias",
+          "language": "es"
+        },
+        {
+          "id": "a00r",
+          "name": "NTN 24 Horas",
+          "url": "http://190.108.83.69:8000/play/a00r/index.m3u8",
+          "group": "Noticias",
+          "language": "es"
+        },
+        {
+          "id": "a01a",
+          "name": "RPP",
+          "url": "http://190.108.83.69:8000/play/a01a/index.m3u8",
+          "group": "Noticias",
+          "language": "es"
+        },
+        {
+          "id": "a07t",
+          "name": "Willax",
+          "url": "http://190.108.83.69:8000/play/a07t/index.m3u8",
+          "group": "Noticias",
+          "language": "es"
+        }
+      ]
+    },
+    {
+      "name": "Cine y series",
+      "channels": [
+        {
+          "id": "a033",
+          "name": "AMC HD",
+          "url": "http://190.108.83.69:8000/play/a033/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a00p",
+          "name": "AMC Series",
+          "url": "http://190.108.83.69:8000/play/a00p/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a04c",
+          "name": "AXN HD",
+          "url": "http://190.108.83.69:8000/play/a04c/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a02k",
+          "name": "Adult Swim",
+          "url": "http://190.108.83.69:8000/play/a02k/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a0al",
+          "name": "Atres Series HD",
+          "url": "http://190.108.83.69:8000/play/a0al/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a048",
+          "name": "Cinecanal HD",
+          "url": "http://190.108.83.69:8000/play/a048/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a06s",
+          "name": "Cinemax",
+          "url": "http://190.108.83.69:8000/play/a06s/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a02z",
+          "name": "Comedy Central HD",
+          "url": "http://190.108.83.69:8000/play/a02z/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a06o",
+          "name": "De Película",
+          "url": "http://190.108.83.69:8000/play/a06o/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a00z",
+          "name": "Europa Europa",
+          "url": "http://190.108.83.69:8000/play/a00z/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a04i",
+          "name": "FX HD",
+          "url": "http://190.108.83.69:8000/play/a04i/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a00n",
+          "name": "Film&Arts",
+          "url": "http://190.108.83.69:8000/play/a00n/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a00w",
+          "name": "Golden Edge",
+          "url": "http://190.108.83.69:8000/play/a00w/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a00i",
+          "name": "Golden HD",
+          "url": "http://190.108.83.69:8000/play/a00i/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a0cx",
+          "name": "HBO 2",
+          "url": "http://190.108.83.69:8000/play/a0cx/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a03x",
+          "name": "HBO Family HD",
+          "url": "http://190.108.83.69:8000/play/a03x/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a035",
+          "name": "HBO HD",
+          "url": "http://190.108.83.69:8000/play/a035/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a01h",
+          "name": "HBO Mundi",
+          "url": "http://190.108.83.69:8000/play/a01h/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a03k",
+          "name": "HBO Pop HD",
+          "url": "http://190.108.83.69:8000/play/a03k/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a06b",
+          "name": "HBO Plus",
+          "url": "http://190.108.83.69:8000/play/a06b/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a01g",
+          "name": "HBO Signature",
+          "url": "http://190.108.83.69:8000/play/a01g/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a03y",
+          "name": "HBO Xtreme HD",
+          "url": "http://190.108.83.69:8000/play/a03y/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a04a",
+          "name": "Sony Channel HD",
+          "url": "http://190.108.83.69:8000/play/a04a/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a04j",
+          "name": "Star Channel HD",
+          "url": "http://190.108.83.69:8000/play/a04j/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a08j",
+          "name": "Sony Movies",
+          "url": "http://190.108.83.69:8000/play/a08j/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a04e",
+          "name": "Space HD",
+          "url": "http://190.108.83.69:8000/play/a04e/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a074",
+          "name": "Studio Universal HD",
+          "url": "http://190.108.83.69:8000/play/a074/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a00y",
+          "name": "TCM",
+          "url": "http://190.108.83.69:8000/play/a00y/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a047",
+          "name": "TNT HD",
+          "url": "http://190.108.83.69:8000/play/a047/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a034",
+          "name": "TNT Series HD",
+          "url": "http://190.108.83.69:8000/play/a034/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a031",
+          "name": "Universal Channel HD",
+          "url": "http://190.108.83.69:8000/play/a031/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a00v",
+          "name": "USA",
+          "url": "http://190.108.83.69:8000/play/a00v/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a0cz",
+          "name": "Universal Cinema SD",
+          "url": "http://190.108.83.69:8000/play/a0cz/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a0d0",
+          "name": "Universal Comedy SD",
+          "url": "http://190.108.83.69:8000/play/a0d0/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a0cy",
+          "name": "Universal Premiere SD",
+          "url": "http://190.108.83.69:8000/play/a0cy/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        },
+        {
+          "id": "a04b",
+          "name": "Warner Channel HD",
+          "url": "http://190.108.83.69:8000/play/a04b/index.m3u8",
+          "group": "Cine y series",
+          "language": "es"
+        }
+      ]
+    },
+    {
+      "name": "Novelas",
+      "channels": [
+        {
+          "id": "a084",
+          "name": "Kanal D Drama",
+          "url": "http://190.108.83.69:8000/play/a084/index.m3u8",
+          "group": "Novelas",
+          "language": "es"
+        },
+        {
+          "id": "a09l",
+          "name": "Las Estrellas HD",
+          "url": "http://190.108.83.69:8000/play/a09l/index.m3u8",
+          "group": "Novelas",
+          "language": "es"
+        },
+        {
+          "id": "a03h",
+          "name": "Pasiones HD",
+          "url": "http://190.108.83.69:8000/play/a03h/index.m3u8",
+          "group": "Novelas",
+          "language": "es"
+        },
+        {
+          "id": "a038",
+          "name": "TNT Novelas HD",
+          "url": "http://190.108.83.69:8000/play/a038/index.m3u8",
+          "group": "Novelas",
+          "language": "es"
+        },
+        {
+          "id": "a02d",
+          "name": "Telemundo",
+          "url": "http://190.108.83.69:8000/play/a02d/index.m3u8",
+          "group": "Novelas",
+          "language": "es"
+        },
+        {
+          "id": "a06n",
+          "name": "Tlnovelas",
+          "url": "http://190.108.83.69:8000/play/a06n/index.m3u8",
+          "group": "Novelas",
+          "language": "es"
+        }
+      ]
+    },
+    {
+      "name": "Documentales",
+      "channels": [
+        {
+          "id": "a02y",
+          "name": "A&E HD",
+          "url": "http://190.108.83.69:8000/play/a02y/index.m3u8",
+          "group": "Documentales",
+          "language": "es"
+        },
+        {
+          "id": "a043",
+          "name": "Animal Planet HD",
+          "url": "http://190.108.83.69:8000/play/a043/index.m3u8",
+          "group": "Documentales",
+          "language": "es"
+        },
+        {
+          "id": "a03v",
+          "name": "DHE HD",
+          "url": "http://190.108.83.69:8000/play/a03v/index.m3u8",
+          "group": "Documentales",
+          "language": "es"
+        },
+        {
+          "id": "a044",
+          "name": "Discovery Channel HD",
+          "url": "http://190.108.83.69:8000/play/a044/index.m3u8",
+          "group": "Documentales",
+          "language": "es"
+        },
+        {
+          "id": "a02b",
+          "name": "Discovery Science",
+          "url": "http://190.108.83.69:8000/play/a02b/index.m3u8",
+          "group": "Documentales",
+          "language": "es"
+        },
+        {
+          "id": "a03e",
+          "name": "Discovery Theater HD",
+          "url": "http://190.108.83.69:8000/play/a03e/index.m3u8",
+          "group": "Documentales",
+          "language": "es"
+        },
+        {
+          "id": "a026",
+          "name": "Discovery Turbo",
+          "url": "http://190.108.83.69:8000/play/a026/index.m3u8",
+          "group": "Documentales",
+          "language": "es"
+        },
+        {
+          "id": "a036",
+          "name": "Discovery World HD",
+          "url": "http://190.108.83.69:8000/play/a036/index.m3u8",
+          "group": "Documentales",
+          "language": "es"
+        },
+        {
+          "id": "a00j",
+          "name": "History 2",
+          "url": "http://190.108.83.69:8000/play/a00j/index.m3u8",
+          "group": "Documentales",
+          "language": "es"
+        },
+        {
+          "id": "a045",
+          "name": "History Channel HD",
+          "url": "http://190.108.83.69:8000/play/a045/index.m3u8",
+          "group": "Documentales",
+          "language": "es"
+        },
+        {
+          "id": "a04d",
+          "name": "ID HD",
+          "url": "http://190.108.83.69:8000/play/a04d/index.m3u8",
+          "group": "Documentales",
+          "language": "es"
+        },
+        {
+          "id": "a085",
+          "name": "Love Nature",
+          "url": "http://190.108.83.69:8000/play/a085/index.m3u8",
+          "group": "Documentales",
+          "language": "es"
+        },
+        {
+          "id": "a046",
+          "name": "Nat Geo HD",
+          "url": "http://190.108.83.69:8000/play/a046/index.m3u8",
+          "group": "Documentales",
+          "language": "es"
+        }
+      ]
+    },
+    {
+      "name": "Estilo de vida",
+      "channels": [
+        {
+          "id": "a02c",
+          "name": "E! Entertainment TV",
+          "url": "http://190.108.83.69:8000/play/a02c/index.m3u8",
+          "group": "Estilo de vida",
+          "language": "es"
+        },
+        {
+          "id": "a030",
+          "name": "El Gourmet HD",
+          "url": "http://190.108.83.69:8000/play/a030/index.m3u8",
+          "group": "Estilo de vida",
+          "language": "es"
+        },
+        {
+          "id": "a08e",
+          "name": "Food Network",
+          "url": "http://190.108.83.69:8000/play/a08e/index.m3u8",
+          "group": "Estilo de vida",
+          "language": "es"
+        },
+        {
+          "id": "a02f",
+          "name": "HGTV",
+          "url": "http://190.108.83.69:8000/play/a02f/index.m3u8",
+          "group": "Estilo de vida",
+          "language": "es"
+        },
+        {
+          "id": "a073",
+          "name": "Hola TV HD",
+          "url": "http://190.108.83.69:8000/play/a073/index.m3u8",
+          "group": "Estilo de vida",
+          "language": "es"
+        },
+        {
+          "id": "a08k",
+          "name": "Home & Health HD",
+          "url": "http://190.108.83.69:8000/play/a08k/index.m3u8",
+          "group": "Estilo de vida",
+          "language": "es"
+        },
+        {
+          "id": "a02i",
+          "name": "Lifetime",
+          "url": "http://190.108.83.69:8000/play/a02i/index.m3u8",
+          "group": "Estilo de vida",
+          "language": "es"
+        },
+        {
+          "id": "a02a",
+          "name": "TLC",
+          "url": "http://190.108.83.69:8000/play/a02a/index.m3u8",
+          "group": "Estilo de vida",
+          "language": "es"
+        }
+      ]
+    },
+    {
+      "name": "Infantil",
+      "channels": [
+        {
+          "id": "a022",
+          "name": "Baby TV",
+          "url": "http://190.108.83.69:8000/play/a022/index.m3u8",
+          "group": "Infantil",
+          "language": "es"
+        },
+        {
+          "id": "a08g",
+          "name": "Cartoon Network HD",
+          "url": "http://190.108.83.69:8000/play/a08g/index.m3u8",
+          "group": "Infantil",
+          "language": "es"
+        },
+        {
+          "id": "a0aa",
+          "name": "Cartoonito",
+          "url": "http://190.108.83.69:8000/play/a0aa/index.m3u8",
+          "group": "Infantil",
+          "language": "es"
+        },
+        {
+          "id": "a0bn",
+          "name": "Discovery Kids HD",
+          "url": "http://190.108.83.69:8000/play/a0bn/index.m3u8",
+          "group": "Infantil",
+          "language": "es"
+        },
+        {
+          "id": "a04f",
+          "name": "Disney HD",
+          "url": "http://190.108.83.69:8000/play/a04f/index.m3u8",
+          "group": "Infantil",
+          "language": "es"
+        },
+        {
+          "id": "a025",
+          "name": "Disney Junior",
+          "url": "http://190.108.83.69:8000/play/a025/index.m3u8",
+          "group": "Infantil",
+          "language": "es"
+        },
+        {
+          "id": "a03l",
+          "name": "Nick HD",
+          "url": "http://190.108.83.69:8000/play/a03l/index.m3u8",
+          "group": "Infantil",
+          "language": "es"
+        },
+        {
+          "id": "a07n",
+          "name": "Plim Plim TV",
+          "url": "http://190.108.83.69:8000/play/a07n/index.m3u8",
+          "group": "Infantil",
+          "language": "es"
+        },
+        {
+          "id": "a02e",
+          "name": "Tooncast",
+          "url": "http://190.108.83.69:8000/play/a02e/index.m3u8",
+          "group": "Infantil",
+          "language": "es"
+        }
+      ]
+    },
+    {
+      "name": "Música",
+      "channels": [
+        {
+          "id": "a0cd",
+          "name": "La Karibena",
+          "url": "http://190.108.83.69:8000/play/a0cd/index.m3u8",
+          "group": "Música",
+          "language": "es"
+        },
+        {
+          "id": "a00q",
+          "name": "HTV",
+          "url": "http://190.108.83.69:8000/play/a00q/index.m3u8",
+          "group": "Música",
+          "language": "es"
+        },
+        {
+          "id": "a03a",
+          "name": "MTV HD",
+          "url": "http://190.108.83.69:8000/play/a03a/index.m3u8",
+          "group": "Música",
+          "language": "es"
+        },
+        {
+          "id": "a00d",
+          "name": "Stingray Concerts HD",
+          "url": "http://190.108.83.69:8000/play/a00d/index.m3u8",
+          "group": "Música",
+          "language": "es"
+        }
+      ]
+    },
+    {
+      "name": "Religiosos",
+      "channels": [
+        {
+          "id": "a040",
+          "name": "Bethel TV",
+          "url": "http://190.108.83.69:8000/play/a040/index.m3u8",
+          "group": "Religiosos",
+          "language": "es"
+        },
+        {
+          "id": "a02h",
+          "name": "EWTN",
+          "url": "http://190.108.83.69:8000/play/a02h/index.m3u8",
+          "group": "Religiosos",
+          "language": "es"
+        },
+        {
+          "id": "a02j",
+          "name": "Enlace",
+          "url": "http://190.108.83.69:8000/play/a02j/index.m3u8",
+          "group": "Religiosos",
+          "language": "es"
+        },
+        {
+          "id": "a041",
+          "name": "Radio Bethel",
+          "url": "http://190.108.83.69:8000/play/a041/index.m3u8",
+          "group": "Religiosos",
+          "language": "es"
+        }
+      ]
+    },
+    {
+      "name": "Otros",
+      "channels": [
+        {
+          "id": "a0c9",
+          "name": "West",
+          "url": "http://190.108.83.69:8000/play/a0c9/index.m3u8",
+          "group": "Otros",
+          "language": "es"
+        },
+        {
+          "id": "a072",
+          "name": "HEI HD",
+          "url": "http://190.108.83.69:8000/play/a072/index.m3u8",
+          "group": "Otros",
+          "language": "es"
+        },
+        {
+          "id": "a086",
+          "name": "Plus TV Life",
+          "url": "http://190.108.83.69:8000/play/a086/index.m3u8",
+          "group": "Otros",
+          "language": "es"
+        },
+        {
+          "id": "a03z",
+          "name": "Sun Channel HD",
+          "url": "http://190.108.83.69:8000/play/a03z/index.m3u8",
+          "group": "Otros",
+          "language": "es"
+        }
+      ]
+    }
+  ]
+}
